@@ -1,0 +1,29 @@
+{
+  "name": "jsdatalinker",
+  "version": "1.0.2",
+  "description": "Bridging Innovation, Connecting Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataBridgeX/JSDataLinker.git"
+  },
+  "keywords": [
+    "firebase",
+    "database",
+    "api",
+    "firebase-admin",
+    "data",
+    "easy",
+    "simple",
+    "beginner"
+  ],
+  "author": "Ranuga Disansa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DataBridgeX/JSDataLinker/issues"
+  },
+  "homepage": "https://github.com/DataBridgeX/JSDataLinker#readme"
+}
